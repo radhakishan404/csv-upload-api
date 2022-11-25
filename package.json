@@ -1,7 +1,7 @@
 {
   "name": "csv-upload-api",
   "version": "1.0.0",
-  "description": "Candidate Resume / CV Builder API using Express and Mongo",
+  "description": "CSV Upload API using Express and Mongo",
   "main": "index.js",
   "type": "module",
   "engines": {
