@@ -1,4 +1,3 @@
-import constants from "../../config/constants.js";
 import { responseSend } from "../../helpers/responseSend.js";
 import { createCustomer, readCustomer } from "./customer.services.js";
 import csv from "csvtojson";
